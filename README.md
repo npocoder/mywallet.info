@@ -1,4 +1,4 @@
-Introducing myWallet - a TypeScript library that provides an easy-to-use interface for interacting with the blockchain.info My Wallet API in Node.js. With myWallet, you can make outgoing payments from your wallet, fetch your wallet balance, list your addresses, generate new addresses, and more - all in a clean and simple TypeScript API.
+Introducing myWallet - a TypeScript library that provides an easy-to-use interface for interacting with the blockchain.info My Wallet API in type script With myWallet, you can make outgoing payments from your wallet, fetch your wallet balance, list your addresses, generate new addresses, and more - all in a clean and simple TypeScript API.
 
 To get started with myWallet, simply install the npm package and initialize a new wallet instance with your GUID and password, like this:
 
